@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cinturón de Cuero Negro",
+    "imagen": "../img/cinturon_cuero_negro.webp",
+    "descripcion": "Cinturón de cuero negro con hebilla metálica clásica.",
+    "precio": 35.00,
+    "descuento": 0
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatos de Vestir",
+    "imagen": "../img/zapato_cuero_negro.jpg",
+    "descripcion": "Zapatos de cuero negro con diseño elegante.",
+    "precio": 120.00,
+    "descuento": 0
+  },
+  {
+    "id": 3,
+    "nombre": "Pantalón Chino",
+    "imagen": "../img/pantalon_chino.jpg",
+    "descripcion": "Pantalón chino en color beige con corte slim fit.",
+    "precio": 65.00,
+    "descuento": 0
+  },
+  {
+    "id": 4,
+    "nombre": "Corbata a Rayas",
+    "imagen": "../img/corbata_seda.jpg",
+    "descripcion": "Corbata de seda con patrón de rayas en tonos azules.",
+    "precio": 25.00,
+    "descuento": 0
+  },
+  {
+    "id": 5,
+    "nombre": "Reloj Deportivo",
+    "imagen": "../img/reloj_deportivo.jpg",
+    "descripcion": "Reloj deportivo resistente al agua con cronómetro.",
+    "precio": 110.00,
+    "descuento": 0
+  }
+]

@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "nombre": "Reloj Casual",
+      "imagen": "../img/reloj_casual.webp",
+      "descripcion": "Reloj con correa de cuero y esfera minimalista.",
+      "precio": 150.00,
+      "descuento": 10
+    },
+    {
+      "id": 2,
+      "nombre": "Chaqueta de Cuero",
+      "imagen": "../img/chaqueta_cuero.jpg",
+      "descripcion": "Chaqueta de cuero genuino con forro interno.",
+      "precio": 250.00,
+      "descuento": 20
+    },
+    {
+      "id": 3,
+      "nombre": "Gafas de Sol Clásicas",
+      "imagen": "../img/gafas_sol.webp",
+      "descripcion": "Gafas de sol con lentes polarizados y marco metálico.",
+      "precio": 85.00,
+      "descuento": 15
+    },
+    {
+      "id": 4,
+      "nombre": "Camisa de Algodón",
+      "imagen": "../img/camisa_algodon.jpg",
+      "descripcion": "Camisa de algodón 100% en color blanco.",
+      "precio": 45.00,
+      "descuento": 5
+    },
+    {
+      "id": 5,
+      "nombre": "Mochila de Cuero",
+      "imagen": "../img/mochila_cuero.jpg",
+      "descripcion": "Mochila de cuero marrón con múltiples compartimentos.",
+      "precio": 90.00,
+      "descuento": 10
+    }
+  ]
+  
